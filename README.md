@@ -1,4 +1,4 @@
-# Hackfolio
+# Build-A-Thon
 Join us in contributing to this Basic Portfolio Template for Hacktoberfest! Fork the repo, personalize it, and submit a pull request with your improvements. Whether you're adding new features, fixing bugs, or enhancing the design, all meaningful contributions are welcome. Let's collaborate and make this project even better!
 
 # 🎉 Hacktoberfest 2024: Build Your Portfolio Website! 🎉
