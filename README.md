@@ -18,13 +18,13 @@ Click on the **Fork** button at the top right of the repository page to create a
 ### 2. **Clone the forked repository to your local machine**
 
 ```bash
-git clone https://github.com/TezosJamiaHamdard/Hackfolio.git
+git clone https://github.com/TezosJamiaHamdard/Build-a-thon.git
 ```
 
 Navigate into the cloned repository:
 
 ```bash
-cd Hackfolio
+cd Build-a-thon
 ```
 
 ### 3. **Pick an issue**
